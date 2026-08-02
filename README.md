@@ -28,6 +28,10 @@
   * *8-System AI engine simulating real-time business decision scenarios.*
   * Powered by FastAPI backend, Groq's Llama-3 model, and SQLite database.
 
+* **[Data Structures & Algorithms (MY-DSA)](https://github.com/kondannakanamaneni294-crypto/MY-DSA)**
+  * *Daily problem-solving repository tracking algorithmic challenges.*
+  * Clean, optimized solutions implemented in **C++**, focusing on technical patterns like Prefix Sum, Hashing, and Expand Around Center.
+
 ---
 
 ### 🏆 Certifications & Verification
