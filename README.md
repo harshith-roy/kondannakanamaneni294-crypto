@@ -15,7 +15,6 @@
 * **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 * **Backend & DB:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 * **AI Engine:** ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-black?style=flat)
-* **Hardware/IoT:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 ---
 
@@ -28,12 +27,6 @@
 * **[Digital Twin OS](https://github.com/kondannakanamaneni294-crypto/digital-twin-os)**
   * *8-System AI engine simulating real-time business decision scenarios.*
   * Powered by FastAPI backend, Groq's Llama-3 model, and SQLite database.
-
-* **Embedding-Based Sentiment Classification System**
-  * *NLP system analyzing public opinion on social media using XGBoost models and vector embeddings.*
-
-* **Smart Parking System**
-  * *Hardware IoT solution using Arduino firmware and ultrasonic sensors to minimize traffic congestion.*
 
 ---
 
