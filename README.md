@@ -6,8 +6,7 @@
 * 🎓 **Goal:** Actively seeking Software Engineering & Full-Stack Internships.
 * 🛠️ **Core Focus:** Building AI-driven systems, API architecture, and full-stack web applications.
 * 🧠 **Problem Solving:** Daily Data Structures & Algorithms practice in **C++**.
-* 📍 **Location:** Hyderabad, India
-
+* 📍 **Location:** Dharmavaram, Andhra Pradesh
 ---
 
 ### 🛠️ Tech Stack & Skills
