@@ -19,7 +19,7 @@
 
 ### 🚀 Featured Projects
 
-* **[BoardMind AI](https://github.com/kondannakanamaneni294-crypto/BOARDMIND-AI)** 
+- [BoardMind AI](https://github.com/kondannakanamaneni294-crypto/SUGGESTION-AI)
   * *Virtual Board of Directors for SMEs simulating executive interviews.*
   * Built with React, Firebase, dynamic Gemini AI integration, and zero-assumption fallback architecture.
 
