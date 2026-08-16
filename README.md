@@ -12,14 +12,18 @@
 ### 🛠️ Tech Stack & Skills
 * **Languages:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 * **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-* **Backend & DB:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+* **Backend & DB:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23FF6D5D.svg?style=flat&logo=n8n&logoColor=white)
 * **AI Engine:** ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-black?style=flat)
 
 ---
 
 ### 🚀 Featured Projects
 
-- [BoardMind AI](https://github.com/kondannakanamaneni294-crypto/SUGGESTION-AI)
+* **[Fundhaven CRM](https://github.com/kondannakanamaneni294-crypto/fundhaven-crm)**
+  * *Automated finance CRM for tracking loan balances and sending payment reminders.*
+  * Built with React and Firebase Firestore, integrating an **n8n** automation pipeline to execute zero-touch daily cron jobs and securely dispatch HTML emails via Gmail OAuth2.
+
+* **[BoardMind AI](https://github.com/kondannakanamaneni294-crypto/SUGGESTION-AI)**
   * *Virtual Board of Directors for SMEs simulating executive interviews.*
   * Built with React, Firebase, dynamic Gemini AI integration, and zero-assumption fallback architecture.
 
@@ -38,7 +42,3 @@
 * 📜 **[AI in Action Job Simulation](https://theforage.com/completion-certificates/BotenCEjm3LFxtq9A/EregFenDKXDDeTGR2_BotenCEjm3LFxtq9A_6a158257aac3fb3b792bea5e_1784705863564_completion_certificate.pdf)** — *Vista (via Forage)*
 * 📜 **[GenAI Powered Data Analytics Job Simulation](https://theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwdDLoXZ3wG_ifobHAoMjQs9s6bKS_6a158257aac3fb3b792bea5e_1784607880576_completion_certificate.pdf)** — *Tata (via Forage)*
 * 📜 **[Engineering Job Simulation](https://theforage.com/completion-certificates/tMjbs76F526fF5v3G/WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3G_6a158257aac3fb3b792bea5e_1784619557341_completion_certificate.pdf)** — *British Airways (via Forage)*
-
----
-
-
