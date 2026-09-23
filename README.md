@@ -1,74 +1,220 @@
-Hi there, I'm K Konda Harshith 👋
-Goal: Actively seeking Software Engineering & Full-Stack Internships.
+# 👋 Hi, I'm K Konda Harshith
 
-I am a software engineer building AI-driven systems, API architecture, and full-stack web applications. I focus on creating scalable tools and automated workflows, alongside maintaining a strong foundation in Data Structures and Algorithms.
+### 💻 Software Engineering | AI/ML | Full-Stack Development
 
-🌐 Connect With Me
-LinkedIn: linkedin.com/in/konda-harshith-a2a794314
+I'm a B.Tech CSE (AI & ML) student passionate about building **AI-driven systems, scalable APIs, and full-stack applications**.
 
-GitHub: github.com/kondannakanamaneni294-crypto
+🎯 **Currently seeking:** Software Engineering, AI/ML & Full-Stack Internship opportunities
 
-LeetCode: leetcode.com/u/bw4jxUbQf6
+---
 
-Location: Dharmavaram, Andhra Pradesh
+## 👨‍💻 About Me
 
-🛠️ Tech Stack & Skills
-Languages: C++, JavaScript (ES6+), TypeScript, Python, SQL
+- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
+- 💻 Focused on **Software Engineering, AI/ML & Full-Stack Development**
+- 🧠 Solved **100+ Data Structures & Algorithms problems** on LeetCode using C++
+- 🚀 Building AI-powered applications and automation workflows
+- 📍 Dharmavaram, Andhra Pradesh, India
 
-Frontend: React.js, Vite, Tailwind CSS
+---
 
-Backend & Databases: FastAPI, Node.js, Express, Firebase Firestore, SQLite
+## 🌐 Connect With Me
 
-AI & Automation: Google Gemini AI, Groq (Llama-3), Hugging Face, n8n Automation Workflows
+<p align="left">
 
-Problem Solving: Solved 100+ Data Structures & Algorithms problems on LeetCode using C++
+<a href="https://www.linkedin.com/in/konda-harshith-a2a794314" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-🚀 Featured Projects
-🌾 Digital AgroTech (AgriPulse)
+<a href="https://github.com/kondannakanamaneni294-crypto" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
 
-Full-stack digital public good empowering farmers with actionable agronomic intelligence.
+<a href="https://leetcode.com/u/bw4jxUbQf6/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
 
-Tech Stack: Python, Machine Learning, Deep Learning, Weather Telemetry APIs
+</p>
 
-Key Features: Combines real-time weather telemetry and deep-learning models to provide predictive crop disease and yield guidance.
+---
 
-💼 Fundhaven CRM
+## 🛠️ Tech Stack
 
-Automated finance CRM for tracking loan balances and sending payment reminders.
+### 💻 Languages
 
-Tech Stack: TypeScript, React, Firebase Firestore, n8n Automation
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-Key Features: Integrates an n8n automation pipeline to execute zero-touch daily cron jobs and securely dispatch HTML emails via Gmail OAuth2.
+### 🎨 Frontend
 
-🤖 BoardMind AI (SUGGESTION-AI)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-Virtual Board of Directors for SMEs simulating executive interviews and decisions.
+### ⚙️ Backend & Databases
 
-Tech Stack: TypeScript, React, Vite, Firebase, Google Gemini AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-Key Features: Utilizes dynamic Gemini AI integration and a zero-assumption fallback architecture for interactive SME decision coaching.
+### 🤖 AI & Automation
 
-⚡ Digital Twin OS
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-8-System AI engine simulating real-time business decision scenarios.
+---
 
-Tech Stack: JavaScript, React, FastAPI, Groq (Llama-3), SQLite
+# 🚀 Featured Projects
 
-Key Features: High-throughput backend using Groq's Llama-3 to simulate multi-departmental corporate intelligence workflows.
+## 🌾 Digital AgroTech — AgriPulse
 
-🧩 Data Structures & Algorithms (MY-DSA)
+**Full-stack digital public good for farmers**
 
-Daily problem-solving repository tracking algorithmic challenges.
+> Provides actionable agronomic intelligence using real-time weather data and machine learning.
 
-Tech Stack: C++, Standard Template Library (STL)
+### 🔧 Tech Stack
+`Python` `Machine Learning` `Deep Learning` `Weather APIs`
 
-Key Features: Clean, time- and space-optimized C++ implementations targeting technical patterns like Prefix Sum, Hashing, and Expand Around Center.
+### ✨ Key Features
+- 🌦️ Real-time weather telemetry
+- 🤖 Deep-learning based crop disease prediction
+- 🌱 Predictive crop yield guidance
+- 📊 Data-driven agricultural recommendations
 
-🏆 Certifications & Verification
-📜 Oracle Certified Foundations Associate – AI Foundations — Oracle (Issued Aug 2026 | Credential ID: OC8102886)
+---
 
-📜 AI in Action Job Simulation — Vista (via Forage)
+## 💼 Fundhaven CRM
 
-📜 GenAI Powered Data Analytics Job Simulation — Tata (via Forage)
+**Automated finance CRM for loan management**
 
-📜 Engineering Job Simulation — British Airways (via Forage)
+> A finance automation system for tracking loan balances and sending payment reminders.
+
+### 🔧 Tech Stack
+`TypeScript` `React` `Firebase Firestore` `n8n`
+
+### ✨ Key Features
+- 💰 Loan balance tracking
+- ⏰ Automated payment reminders
+- ⚡ Zero-touch daily cron workflows
+- 📧 Secure HTML email delivery using Gmail OAuth2
+
+---
+
+## 🤖 BoardMind AI — SUGGESTION-AI
+
+**AI-powered virtual board of directors for SMEs**
+
+> Simulates executive-level discussions to help small and medium-sized businesses evaluate decisions.
+
+### 🔧 Tech Stack
+`TypeScript` `React` `Vite` `Firebase` `Google Gemini AI`
+
+### ✨ Key Features
+- 🧠 Dynamic Gemini AI integration
+- 💬 Interactive SME decision coaching
+- 🔄 Fallback architecture
+- ⚡ AI-driven business recommendations
+
+---
+
+## ⚡ Digital Twin OS
+
+**AI engine for business decision simulation**
+
+> Simulates real-time business scenarios across multiple departments.
+
+### 🔧 Tech Stack
+`JavaScript` `React` `FastAPI` `Groq Llama-3` `SQLite`
+
+### ✨ Key Features
+- 🏢 Multi-department business simulation
+- 🤖 Llama-3 powered AI workflows
+- ⚡ High-throughput FastAPI backend
+- 📊 Real-time decision scenario analysis
+
+---
+
+## 🧩 MY-DSA
+
+**Data Structures & Algorithms Practice Repository**
+
+> A collection of my daily algorithmic problem-solving practice using C++.
+
+### 🔧 Tech Stack
+`C++` `STL`
+
+### 📚 Topics
+- Arrays
+- Hashing
+- Prefix Sum
+- Strings
+- Linked Lists
+- Binary Search
+- Recursion
+- Sliding Window
+- Two Pointers
+- And more...
+
+🔗 **[View My DSA Repository](https://github.com/kondannakanamaneni294-crypto)**
+
+---
+
+# 🧠 Problem Solving
+
+### LeetCode
+
+🔥 **100+ Problems Solved**
+
+I regularly practice Data Structures & Algorithms using **C++**, focusing on understanding patterns and optimizing time and space complexity.
+
+🔗 **[View My LeetCode Profile](https://leetcode.com/u/bw4jxUbQf6/)**
+
+---
+
+# 🏆 Certifications
+
+- 📜 **Oracle Certified Foundations Associate — AI Foundations**  
+  Oracle | Issued August 2026  
+  Credential ID: `OC8102886`
+
+- 📜 **AI in Action Job Simulation**  
+  Vista — Forage
+
+- 📜 **GenAI Powered Data Analytics Job Simulation**  
+  Tata — Forage
+
+- 📜 **Engineering Job Simulation**  
+  British Airways — Forage
+
+---
+
+# 📊 What I'm Currently Working On
+
+- 🤖 AI/ML development
+- 💻 Data Structures & Algorithms
+- 🌐 Full-stack application development
+- 🔌 API architecture
+- ⚙️ AI automation workflows
+- 🚀 Open-source contributions
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with developers, recruiters, open-source contributors, and people building interesting products.
+
+**LinkedIn:**  
+👉 [linkedin.com/in/konda-harshith-a2a794314](https://www.linkedin.com/in/konda-harshith-a2a794314)
+
+**GitHub:**  
+👉 [github.com/kondannakanamaneni294-crypto](https://github.com/kondannakanamaneni294-crypto)
+
+**LeetCode:**  
+👉 [leetcode.com/u/bw4jxUbQf6](https://leetcode.com/u/bw4jxUbQf6/)
