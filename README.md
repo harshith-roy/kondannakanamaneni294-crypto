@@ -141,28 +141,7 @@ I'm a B.Tech CSE (AI & ML) student passionate about building **AI-driven systems
 
 ---
 
-## 🧩 MY-DSA
 
-**Data Structures & Algorithms Practice Repository**
-
-> A collection of my daily algorithmic problem-solving practice using C++.
-
-### 🔧 Tech Stack
-`C++` `STL`
-
-### 📚 Topics
-- Arrays
-- Hashing
-- Prefix Sum
-- Strings
-- Linked Lists
-- Binary Search
-- Recursion
-- Sliding Window
-- Two Pointers
-- And more...
-
-🔗 **[View My DSA Repository](https://github.com/kondannakanamaneni294-crypto)**
 
 ---
 
